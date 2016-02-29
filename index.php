@@ -1,1 +1,1 @@
-<?php echo "Testing, testing.."; ?>
+<?php echo "PHPower to the PHPeople";
